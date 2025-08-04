@@ -1,0 +1,10 @@
+name: TexMate
+desc: An alpine based ready to go Docker image for Latex writing with autocomplete and compilation
+site: https://github.com/makkorjamal/texmate
+tags:
+  - Docker
+  - Bash
+  - Nginx
+upforgrabs:
+  name: up for grabs
+  link: https://github.com/makkorjamal/texmate/labels/up%20for%20grabs
